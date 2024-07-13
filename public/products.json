@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Long gilet with openings",
+      "price": 699,
+      "imageUrl": "/images/Long gilet with openings.jpg",
+      "sku": "123456",
+      "color": "Black"
+    },
+    {
+      "name": "Lyocell linen overshirt",
+      "price": 749,
+      "imageUrl": "/images/man6.jpg",
+      "sku": "123467",
+      "color": "Gray"
+    },
+    {
+      "name": "Linen vest with halter collar",
+      "price": 999,
+      "imageUrl": "/images/Linen vest with halter collar.jpg",
+      "sku": "123457",
+      "color": "Silver"
+    },
+    {
+      "name": "Regular-fit suit jacket",
+      "price": 199,
+      "imageUrl": "/images/man3.jpg",
+      "sku": "123462",
+      "color": "White"
+    },
+    {
+      "name": "Linen vest with buttons",
+      "price": 399,
+      "imageUrl": "/images/Linen vest with buttons.jpg",
+      "sku": "123458",
+      "color": "Gold"
+    },
+    {
+      "name": "Trench coat with a loose cut belt",
+      "price": 99,
+      "imageUrl": "/images/man5.jpg",
+      "sku": "123464",
+      "color": "Black"
+    },
+    {
+      "name": "T-shirt 100% cotton",
+      "price": 199,
+      "imageUrl": "/images/phooto.jpg",
+      "sku": "123459",
+      "color": "Red"
+    },
+    {
+      "name": "Bomber stretch water repellent",
+      "price": 299,
+      "imageUrl": "/images/man4.jpg",
+      "sku": "123463",
+      "color": "Black"
+    },
+    {
+      "name": "Cotton trench coat",
+      "price": 49,
+      "imageUrl": "/images/woman5.jpg",
+      "sku": "123465",
+      "color": "Gray"
+    },
+    {
+      "name": "Wool coat",
+      "price": 549,
+      "imageUrl": "/images/woman6.jpg",
+      "sku": "123466",
+      "color": "Black"
+    },
+    {
+      "name": "Straight cut shirt",
+      "price": 299,
+      "imageUrl": "/images/man1.jpg",
+      "sku": "123460",
+      "color": "Blue"
+    },
+    {
+      "name": "Straight denim shorts",
+      "price": 199,
+      "imageUrl": "/images/woman7.jpg",
+      "sku": "123469",
+      "color": "Blue"
+    }
+    
+  ]
